@@ -1,0 +1,16 @@
+# Local overrides & environment files
+config.local.js
+js/config.local.js
+.env
+.env.*
+
+# OS & editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Logs & temp files
+*.log
+*.tmp
